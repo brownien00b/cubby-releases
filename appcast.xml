@@ -3,6 +3,17 @@
     <channel>
         <title>Cubby</title>
         <item>
+            <title>1.0.1</title>
+            <pubDate>Sat, 05 Sep 2026 16:19:53 -0400</pubDate>
+            <sparkle:version>1.0.1</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/brownien00b/cubby-releases/releases/download/downloads/Cubby-1.0.1.dmg" length="10815560" type="application/octet-stream" sparkle:edSignature="2ud5UTIQXL4v267766DYS7N+D7MvvTGYXF1BNNl8U1oRXmN+h8QH6lVnimB4NaJ8sWE4GJ1Pz92+EF3uWrQjCQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/brownien00b/cubby-releases/releases/download/downloads/Cubby1.0.1-1.0.delta" sparkle:deltaFrom="1.0" length="211930" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="qozj+f65nBSFmwWRe6OArVO89lfF77Ip+f96J6mxIOJ4f3bkEUxm5YObqWQsFXyN4sthwujmqJDL9B2T++zMAA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0</title>
             <pubDate>Sat, 05 Sep 2026 15:01:35 -0400</pubDate>
             <sparkle:version>1.0</sparkle:version>
