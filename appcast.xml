@@ -3,6 +3,21 @@
     <channel>
         <title>Cubby</title>
         <item>
+            <title>1.0.6</title>
+            <pubDate>Mon, 07 Sep 2026 22:13:31 -0400</pubDate>
+            <sparkle:version>1.0.6</sparkle:version>
+            <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/brownien00b/cubby-releases/releases/download/downloads/Cubby-1.0.6.dmg" length="10834206" type="application/octet-stream" sparkle:edSignature="oB1lIXDryawCjF51YzHiQOGp/kqNV0xCC/LgbH/L85qIp3xHmq/qXCGFwdE9BY98/hy/4tdSYlVtNhRbpshZAg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/brownien00b/cubby-releases/releases/download/downloads/Cubby1.0.6-1.0.5.delta" sparkle:deltaFrom="1.0.5" length="219010" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="SisbPAgfzCgE6DC6npPTqPjaVf3hPUw8ZDTSSiWewGVLX1aLKY70L8zNKeskI2aV8E7GpOev5dEM+H/ukAfkDQ=="/>
+                <enclosure url="https://github.com/brownien00b/cubby-releases/releases/download/downloads/Cubby1.0.6-1.0.4.delta" sparkle:deltaFrom="1.0.4" length="258298" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="FWh5XwUGCsRmVVnoR980BcYG13RCPRQy2PaGaq2DyVb2wTWrOtBU6cwvsleiTbJY1q0OWYo2+4SH1A/CTnHFBw=="/>
+                <enclosure url="https://github.com/brownien00b/cubby-releases/releases/download/downloads/Cubby1.0.6-1.0.3.delta" sparkle:deltaFrom="1.0.3" length="286458" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ypk8ivl80aCtEzP5WwBhobinRkXIsaaMaeSuJ9FEVyo4IhvKbkv0KBtzTlIIeaLsyVI25Y2hISGOFHbPt/lrDg=="/>
+                <enclosure url="https://github.com/brownien00b/cubby-releases/releases/download/downloads/Cubby1.0.6-1.0.2.delta" sparkle:deltaFrom="1.0.2" length="301054" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="xqCUptWBiApa4kh4L4Hk5jwhdIyx1nRq4fVq1sIQrkzE85yINjw4pCh1YDvD7T5NCcZS0X+siUu6SvBtYxsJDw=="/>
+                <enclosure url="https://github.com/brownien00b/cubby-releases/releases/download/downloads/Cubby1.0.6-1.0.1.delta" sparkle:deltaFrom="1.0.1" length="305134" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="TCuDShPfjqyDpWa+C7KSxslTjXtLMm890M0CVm0CDFLjJCRszPAWAOzAX/Cdm/Z3ve+fO15kOhGbQpOFY868Ag=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.5</title>
             <pubDate>Mon, 07 Sep 2026 19:10:20 -0400</pubDate>
             <sparkle:version>1.0.5</sparkle:version>
@@ -29,19 +44,6 @@
                 <enclosure url="https://github.com/brownien00b/cubby-releases/releases/download/downloads/Cubby1.0.4-1.0.2.delta" sparkle:deltaFrom="1.0.2" length="253974" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="I+4McjUnZ13YmBIPPs8Hnx/ttEJdd3NwrHkRjSusSCubTL3SwMBFnGrBoVRm15umnzB7cawe9yksxkztqpFnDg=="/>
                 <enclosure url="https://github.com/brownien00b/cubby-releases/releases/download/downloads/Cubby1.0.4-1.0.1.delta" sparkle:deltaFrom="1.0.1" length="285702" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="hy0/5f3Q/doTl5LqpJFLQm+0bFIq9RDZmKWpPK3PTpddO31FA1ua3rMNgOPHB5tmk3kEZh+eCRAjEoGrNPZCDw=="/>
                 <enclosure url="https://github.com/brownien00b/cubby-releases/releases/download/downloads/Cubby1.0.4-1.0.delta" sparkle:deltaFrom="1.0" length="298706" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="iganMIqMYt0xsWhzWrnspYzDaMFF2h2Cqb6Lxoj4n25ZEkQcfz2G28IEmVTTcvH11tdu3bzQtzLIUfKbPK+HBw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.0.3</title>
-            <pubDate>Sat, 05 Sep 2026 19:32:00 -0400</pubDate>
-            <sparkle:version>1.0.3</sparkle:version>
-            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/brownien00b/cubby-releases/releases/download/downloads/Cubby-1.0.3.dmg" length="10824304" type="application/octet-stream" sparkle:edSignature="+2u5Gb4qw1nfZu2io196rtIyfsfiEdOOjeSzYodHa2qCGdstLnHtzoCHCkWYGfLUDCBFw6giIgk+bFwi/YguAQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/brownien00b/cubby-releases/releases/download/downloads/Cubby1.0.3-1.0.2.delta" sparkle:deltaFrom="1.0.2" length="227050" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="upH05ZnNCkLFtbSnYgTXrkpB2Q/GzcErWVQhmysAmmuzTjauVxj0mPojTXv55dInEiMO3jY4JcqNEJWzQDalBA=="/>
-                <enclosure url="https://github.com/brownien00b/cubby-releases/releases/download/downloads/Cubby1.0.3-1.0.1.delta" sparkle:deltaFrom="1.0.1" length="258166" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="/R2v0KJDihUNB1im2BF/MtVf3kLlcGqFns470OK8vJzXTdezphXJTw1Z3DeDg3DcREiQ25V2+Yrdxb0iDJLeBA=="/>
-                <enclosure url="https://github.com/brownien00b/cubby-releases/releases/download/downloads/Cubby1.0.3-1.0.delta" sparkle:deltaFrom="1.0" length="271854" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Tt2rV1qdq/01tTralxrU4u1ccNUNxyMtj9KotM6XW6V785w5xpchX21kiDOwRYdPFTMKn4Q84D5YUkDbcZJcBQ=="/>
             </sparkle:deltas>
         </item>
     </channel>
