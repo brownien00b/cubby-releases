@@ -3,6 +3,46 @@
     <channel>
         <title>Cubby</title>
         <item>
+            <title>1.2.3</title>
+            <pubDate>Sat, 17 Oct 2026 10:15:36 -0400</pubDate>
+            <sparkle:version>1.2.3</sparkle:version>
+            <sparkle:shortVersionString>1.2.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[### Draw on a screenshot after you take it
+
+After a screenshot, the "Screenshot saved" note at the top of the screen now
+shows a small picture of it and says **right ⌘ to mark up**. Tap right ⌘ while
+it is there and the shot opens ready to draw on, with no trip through the
+panel. Clicking the note does the same, and it stays put while your pointer is
+over it. Once it is gone, right ⌘ opens Cubby as always.
+
+How long it stays is up to you, in **Settings → Screenshots**: off, or 3 to 15
+seconds. Missed it? **Mark Up Last Screenshot** is in the menu bar menu.
+
+### Paste it straight from the editor
+
+When you have finished drawing, **⌘↩** pastes the marked-up picture straight
+into the app you were in. **Done** still only copies it, so nothing pastes
+unless you ask. Screenshot, right ⌘, draw, ⌘↩, and it is in your message.
+
+### Find pictures by kind and day
+
+Type **gif**, **video** or **shot** in the search to see only those, and
+**today**, **yesterday** or a day like **monday** to see what you took then.
+They combine with each other and with ordinary search: **shot yesterday
+login** finds yesterday's screenshots with "login" in them. Press **?** in the
+panel for the full list.
+]]></description>
+            <enclosure url="https://github.com/brownien00b/cubby-releases/releases/download/downloads/Cubby-1.2.3.dmg" length="11157683" type="application/octet-stream" sparkle:edSignature="nPBBr/cry6iand8qxWa8gYAbZ6ihmOrTXl3PZB5G3/IAX92itpnm3YztW8I8m+SBoGAKY3f0gOpx+Elzc+akAw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/brownien00b/cubby-releases/releases/download/downloads/Cubby1.2.3-1.2.2.delta" sparkle:deltaFrom="1.2.2" length="507198" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="hbRziwFBol/KrEPSXBik/4sQcGdiXgoBpCEIo72m8Xm1XmT+OkJ9HXrFPuQM4jTmV5al3oLYFWWQyB7cvhPqCg=="/>
+                <enclosure url="https://github.com/brownien00b/cubby-releases/releases/download/downloads/Cubby1.2.3-1.2.1.delta" sparkle:deltaFrom="1.2.1" length="541854" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="b7ujnwSVCS6edb/UBrvdoOkgGSQKvnhW4Ne+XZQ1rcWGlzX61teOUKQGnlxMI2lZHahgjaiFY3f9x1UztQTLDA=="/>
+                <enclosure url="https://github.com/brownien00b/cubby-releases/releases/download/downloads/Cubby1.2.3-1.2.0.delta" sparkle:deltaFrom="1.2.0" length="557314" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="m6Ryl7vLRDZL7ilvyhwDFZxeSikPpRMT+9Wkl+yfg3YfIhItIBIZT4+LX3Imw1TDrZUgJNaD7cwNPUwVxgHPAg=="/>
+                <enclosure url="https://github.com/brownien00b/cubby-releases/releases/download/downloads/Cubby1.2.3-1.1.1.delta" sparkle:deltaFrom="1.1.1" length="630306" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="HS0WWRY851fVS2XeTK2YfJw1AdxHMp0BmgffaFoDHJwOtDDSB5aFVXTh6mzhOsvjwRi8xmgfoCJ42CBoI1aDDg=="/>
+                <enclosure url="https://github.com/brownien00b/cubby-releases/releases/download/downloads/Cubby1.2.3-1.1.0.delta" sparkle:deltaFrom="1.1.0" length="653386" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="A/66JfH5iKJjrhUSiKjAAaeVfFjRIddl2S2cjBiAs2PtDmpi4afzlVEvBGQew8MJVDYYUfB71GadzUjAUPH9CQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.2.2</title>
             <pubDate>Sat, 10 Oct 2026 17:53:49 -0400</pubDate>
             <sparkle:version>1.2.2</sparkle:version>
@@ -44,54 +84,6 @@ original came first and the edit you had just made sat one place to the right.
                 <enclosure url="https://github.com/brownien00b/cubby-releases/releases/download/downloads/Cubby1.2.1-1.1.0.delta" sparkle:deltaFrom="1.1.0" length="459398" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="KEZ4oNx+YBNirouh2Nz3CK7MoqmzrndjUKNS3Vv1xSx5Mbk1wrkydh8oi2btKb0wpFa1k5p5EtS1fFYnmPqnDQ=="/>
                 <enclosure url="https://github.com/brownien00b/cubby-releases/releases/download/downloads/Cubby1.2.1-1.0.9.delta" sparkle:deltaFrom="1.0.9" length="486722" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="V3CXE9l3gzOJz7O/B/uvCK1TPUS9FoSeTmGcjcOV1zCvLqa6rPe4ksDNFrcb8GCRrqtZdfB5TQNa039bqfYOAg=="/>
                 <enclosure url="https://github.com/brownien00b/cubby-releases/releases/download/downloads/Cubby1.2.1-1.0.8.delta" sparkle:deltaFrom="1.0.8" length="557202" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="E/9oiXzjylKGKThL/PzqskdxF0UxHtDlx9gNknCja0S6AnDZhVJuDimUnOvogdmLZOvB0EZQ1+XKxwknD1g1Cg=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.2.0</title>
-            <pubDate>Tue, 29 Sep 2026 09:53:17 -0400</pubDate>
-            <sparkle:version>1.2.0</sparkle:version>
-            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[### Paste several screenshots at once
-
-In the panel, hold **⇧** and use the arrow keys to pick a run of screenshots,
-GIFs or recordings, then press **Return** and they all paste, one after
-another, in the order you see them. **⌘-click** adds or removes one, **⇧-click**
-stretches the run to the one you click, and **esc** lets go of the set. The
-same rules as Finder, up to ten at a time.
-
-Into a terminal they arrive as one line of file paths, which is what a command
-line, or a coding assistant running in one, can use.
-
-### Recording, smoothed out
-
-- **A 3-2-1 countdown** after you press Record, so the video starts with you
-  ready rather than with your hand on its way to the thing you are showing.
-  Tap the shortcut again during it to call it off.
-- **Stop appears where Record was.** It is under your pointer when the
-  recording begins, instead of somewhere different every time, and never
-  hidden behind the Dock on a full-screen recording.
-- **Your first click counts.** The app you are recording now has focus the
-  moment recording starts, so a click lands on what you clicked, not on
-  waking the window up.
-- **Showing clicks is your choice.** A new button beside the microphone on the
-  Record screen turns the click rings on or off. Cubby remembers which you
-  prefer.
-
-### Sharper GIFs
-
-GIFs are now made at the size the recording looked on your screen, where
-before they came out at a little over half of it. Small text in a GIF is
-readable again. The files are larger for it, roughly twice the size; trimming
-a clip first is still the best way to keep one small.
-]]></description>
-            <enclosure url="https://github.com/brownien00b/cubby-releases/releases/download/downloads/Cubby-1.2.0.dmg" length="11037495" type="application/octet-stream" sparkle:edSignature="gbrpbQkh0h5oQJpbuIpUjViJOKISA1UpgINys4BEjS/5xQYfwl2jPhpqN25A8fK3dRqxeKKP+Lxp99evSKErBA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/brownien00b/cubby-releases/releases/download/downloads/Cubby1.2.0-1.1.1.delta" sparkle:deltaFrom="1.1.1" length="387498" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="aez1mtXbZIn7oSCD4EQ778Ohc74XzRxQEhMA9W4g5+nZdsLokWfZoVre6TGLUoQhtfOkT1INDdmgbfnX+Ct0Bw=="/>
-                <enclosure url="https://github.com/brownien00b/cubby-releases/releases/download/downloads/Cubby1.2.0-1.1.0.delta" sparkle:deltaFrom="1.1.0" length="450062" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="M5oaglYExPZ5lU3Qr2EwhgHj2kXjmVHCdfRE06t+I31F1zcqw/5s9cSLBb0k2mX0woCJTKSmxhbQihbEYP0FBQ=="/>
-                <enclosure url="https://github.com/brownien00b/cubby-releases/releases/download/downloads/Cubby1.2.0-1.0.9.delta" sparkle:deltaFrom="1.0.9" length="478046" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="52cM9nQRKHpkbYPIRpcnzerTj7RDbPke7/DdfuiCOEtn1BWMYJPiXAm4wsK5MKR1ZtlWGDVhsSpm7FvXFUMGCg=="/>
-                <enclosure url="https://github.com/brownien00b/cubby-releases/releases/download/downloads/Cubby1.2.0-1.0.8.delta" sparkle:deltaFrom="1.0.8" length="554766" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="gD1y1Zadi8WheMCg3sj5W4z60QKCpu8IQBipciSB4jxb1SP90gSd+g/VILDKfVB1dEUujXHhQkG2yP1JtwCfCw=="/>
-                <enclosure url="https://github.com/brownien00b/cubby-releases/releases/download/downloads/Cubby1.2.0-1.0.7.delta" sparkle:deltaFrom="1.0.7" length="559810" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="K2otp31tYG6GTc0AwTWUGl7Y30DAXtGVpQctbaoNVs34IQnaChlvpmsrjeWXEVb7NJA0ZruY8LAeJMFZN5X7AQ=="/>
             </sparkle:deltas>
         </item>
     </channel>
