@@ -3,6 +3,32 @@
     <channel>
         <title>Cubby</title>
         <item>
+            <title>1.2.5</title>
+            <pubDate>Tue, 20 Oct 2026 21:11:12 -0400</pubDate>
+            <sparkle:version>1.2.5</sparkle:version>
+            <sparkle:shortVersionString>1.2.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[### ⌘V pastes a screenshot into a terminal
+
+Take a screenshot, switch to Terminal, iTerm, Ghostty, Warp, kitty,
+Alacritty, Hyper or WezTerm, and **⌘V** pastes the file's path, which is
+what a command-line tool needs to read it. No trip through the panel any
+more.
+
+Everywhere else, ⌘V still pastes the picture itself, so Gmail, Slack and
+Messages get the image just as before. Copy something else after the shot
+and Cubby leaves your clipboard alone.
+]]></description>
+            <enclosure url="https://github.com/brownien00b/cubby-releases/releases/download/downloads/Cubby-1.2.5.dmg" length="11170893" type="application/octet-stream" sparkle:edSignature="fBXXw0OGZfpYLsO3zB9kQqmsyKI4MqywVePuBNIkucj2UUAs+JKXmCK+Dii9j9cq9NiivJO2PqXknY4dfhDpBw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/brownien00b/cubby-releases/releases/download/downloads/Cubby1.2.5-1.2.4.delta" sparkle:deltaFrom="1.2.4" length="288886" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="OlOY9nsDcEGd63ey4HxBiBPrbOCq0IDYBR6WKDRyzo2W6xBDEYbB1CEFaO9QL+XCIQAevs8u95IVNFRGRM6YDA=="/>
+                <enclosure url="https://github.com/brownien00b/cubby-releases/releases/download/downloads/Cubby1.2.5-1.2.3.delta" sparkle:deltaFrom="1.2.3" length="295750" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="XVbegwaIB+qwM8g9PK3rCZpvVkXawAWIFwF2rno7AKitp5T8awNJoiBe3B2pVr0mM0a4tEsdwgDpE+vEsDwUCg=="/>
+                <enclosure url="https://github.com/brownien00b/cubby-releases/releases/download/downloads/Cubby1.2.5-1.2.2.delta" sparkle:deltaFrom="1.2.2" length="526094" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="cgKpuj/DvUJn0AxB2flI+fpGloUCtwk7xJ44jPx+EGqWha2SRROJ3LdckRBF0CwZCw3q4uVMgMBSVRT0OyTkDA=="/>
+                <enclosure url="https://github.com/brownien00b/cubby-releases/releases/download/downloads/Cubby1.2.5-1.2.1.delta" sparkle:deltaFrom="1.2.1" length="562134" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="3VDf78G0NUXdI+npo9ZfoaS7KLoH/bRzbQsk1IIsQT8zb5HE3VFI1x9LNtQPYfvFftUcuemA9s3JP1SDgseEAw=="/>
+                <enclosure url="https://github.com/brownien00b/cubby-releases/releases/download/downloads/Cubby1.2.5-1.2.0.delta" sparkle:deltaFrom="1.2.0" length="570990" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="g+c7qthhqyliwnJCp1gFRqqdkuKvCc466tbwx0GmT17R2snkXjVNz6pp5p+2DTcOsNfZSQyLR8++M8CmgdkLCA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.2.4</title>
             <pubDate>Sat, 17 Oct 2026 21:39:26 -0400</pubDate>
             <sparkle:version>1.2.4</sparkle:version>
@@ -63,29 +89,6 @@ panel for the full list.
                 <enclosure url="https://github.com/brownien00b/cubby-releases/releases/download/downloads/Cubby1.2.3-1.2.0.delta" sparkle:deltaFrom="1.2.0" length="557314" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="m6Ryl7vLRDZL7ilvyhwDFZxeSikPpRMT+9Wkl+yfg3YfIhItIBIZT4+LX3Imw1TDrZUgJNaD7cwNPUwVxgHPAg=="/>
                 <enclosure url="https://github.com/brownien00b/cubby-releases/releases/download/downloads/Cubby1.2.3-1.1.1.delta" sparkle:deltaFrom="1.1.1" length="630306" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="HS0WWRY851fVS2XeTK2YfJw1AdxHMp0BmgffaFoDHJwOtDDSB5aFVXTh6mzhOsvjwRi8xmgfoCJ42CBoI1aDDg=="/>
                 <enclosure url="https://github.com/brownien00b/cubby-releases/releases/download/downloads/Cubby1.2.3-1.1.0.delta" sparkle:deltaFrom="1.1.0" length="653386" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="A/66JfH5iKJjrhUSiKjAAaeVfFjRIddl2S2cjBiAs2PtDmpi4afzlVEvBGQew8MJVDYYUfB71GadzUjAUPH9CQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.2.2</title>
-            <pubDate>Sat, 10 Oct 2026 17:53:49 -0400</pubDate>
-            <sparkle:version>1.2.2</sparkle:version>
-            <sparkle:shortVersionString>1.2.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[### A box behind your text
-
-Text you add to a screenshot can now sit on a box, so it stays readable over
-a busy photo where no text colour works. Pick it from the new menu beside the
-text size: black, white or a few colours, or **Custom…** for any colour at any
-opacity, including a see-through one that still shows the picture underneath.
-The words stay exactly where you put them; the box appears around them.
-]]></description>
-            <enclosure url="https://github.com/brownien00b/cubby-releases/releases/download/downloads/Cubby-1.2.2.dmg" length="11061531" type="application/octet-stream" sparkle:edSignature="g7f27QeqBiYia6zIx3Z6E/8Uc4pyAXG+nrvcCuTfFUoTHi/I3PR5vvwqT/D3To65HuarIB4bv8y/D++dQmIYAw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/brownien00b/cubby-releases/releases/download/downloads/Cubby1.2.2-1.2.1.delta" sparkle:deltaFrom="1.2.1" length="311590" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="/WhkzaCpuxcN9tYPmjHrQqm7u0lWxlZlHztq9bam7EXM1kOGG9QHtzGdn6Yric48o+JzzuVo3ztk1EChFzYgDQ=="/>
-                <enclosure url="https://github.com/brownien00b/cubby-releases/releases/download/downloads/Cubby1.2.2-1.2.0.delta" sparkle:deltaFrom="1.2.0" length="325718" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="7TzuX2ODi9HnrEMh6XE57StJKSAZT4/P8WbMAg/vDXjfNlQnLsxFQObVmAgtJLSnMBxtOlyznWBXbsGOJ6zVAA=="/>
-                <enclosure url="https://github.com/brownien00b/cubby-releases/releases/download/downloads/Cubby1.2.2-1.1.1.delta" sparkle:deltaFrom="1.1.1" length="459086" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="focP+z5DcMzNtZVWWdSkx/4NQsOVmZ0xFMlh7A1KX5MZjbYDGjQ1P4UrYvUbl9wBXBhZTgDY+Vs1BupoStdYAQ=="/>
-                <enclosure url="https://github.com/brownien00b/cubby-releases/releases/download/downloads/Cubby1.2.2-1.1.0.delta" sparkle:deltaFrom="1.1.0" length="504942" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="aY95+vcEisZVtCULRqxc2hGVkN2dqDmO+yYWcCHQzVUV1xiQD4olSQB1gpmm6V5th8l8DxVgtxQeMbVjf1CZBA=="/>
-                <enclosure url="https://github.com/brownien00b/cubby-releases/releases/download/downloads/Cubby1.2.2-1.0.9.delta" sparkle:deltaFrom="1.0.9" length="531186" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="6ark2Oa5ThKxKsvsrzl/F5HmulfmwfIJEkPIguK4q7tEepEIFDvpmTHT20JF/gzPTyPglidEV4nAV/EamyyNAQ=="/>
             </sparkle:deltas>
         </item>
     </channel>
