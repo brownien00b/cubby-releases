@@ -3,6 +3,36 @@
     <channel>
         <title>Cubby</title>
         <item>
+            <title>1.2.11</title>
+            <pubDate>Sat, 31 Oct 2026 00:02:04 -0400</pubDate>
+            <sparkle:version>1.2.11</sparkle:version>
+            <sparkle:shortVersionString>1.2.11</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[### Recordings really do drag into CapCut now
+
+1.2.10 said dragging a recording into CapCut worked. It only worked for
+recordings CapCut had already imported. A new one still failed with
+"Couldn't access some of the materials." Cubby now starts the drag the same
+way Finder does, with the file itself, so a recording CapCut has never seen
+drops in.
+
+Screenshots and recent files drag the same way, and dragging no longer leaves
+a copy of the file in your Library folder each time.
+
+Dropping a recording or screenshot into a Finder folder now always copies it.
+Before, it could move the file out of Cubby's folder, and that item would stop
+working.
+]]></description>
+            <enclosure url="https://github.com/brownien00b/cubby-releases/releases/download/downloads/Cubby-1.2.11.dmg" length="11415900" type="application/octet-stream" sparkle:edSignature="WxHYQx3zOpwtsCL0JsbQwecE9WbhaPVYuNavAqzMZnixh5VhlYpXC1ZtfA26tf5uaSFW+7UCihAxcAmyvO0+DQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/brownien00b/cubby-releases/releases/download/downloads/Cubby1.2.11-1.2.10.delta" sparkle:deltaFrom="1.2.10" length="357238" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="t8wPL9W0c4hL2LOdowqDl1bAAJEwJWezdr3FHEL8CnRhmCZDHQcHGqYLPgKa2rZfOH2F4JL6+dqob10F6i6RBw=="/>
+                <enclosure url="https://github.com/brownien00b/cubby-releases/releases/download/downloads/Cubby1.2.11-1.2.9.delta" sparkle:deltaFrom="1.2.9" length="361586" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="7HLf+Wihj+EBohH3AhPZDj8dbpKpaaDHcMuveSzTonkOJM1yBgzVZ4UY7G7DuXPnIaxJE5Phd6/YZ19Hls+yCg=="/>
+                <enclosure url="https://github.com/brownien00b/cubby-releases/releases/download/downloads/Cubby1.2.11-1.2.8.delta" sparkle:deltaFrom="1.2.8" length="518074" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="XemCBD4qLuRWBBGZ9xVCQY8NYVp0EWJ8NWmUaL4mwDikONcrYbigpriNAm8QYN69UTnfwKyKcRTVQUUXX2JpCA=="/>
+                <enclosure url="https://github.com/brownien00b/cubby-releases/releases/download/downloads/Cubby1.2.11-1.2.7.delta" sparkle:deltaFrom="1.2.7" length="597830" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="NLdalJRemJujipuhSGPmqSwn1t1U6kVCLwXP6PuQxSvq8Y6a/LBUAFDPn/o+nzfVH8czm46EKG84Aai7bElwBA=="/>
+                <enclosure url="https://github.com/brownien00b/cubby-releases/releases/download/downloads/Cubby1.2.11-1.2.6.delta" sparkle:deltaFrom="1.2.6" length="632062" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="sadf5tzXLb37bBlLQNgD13Dxch0UkEGG+WR+4KluXUNohDiVqAGrT5KssbxTeNvEHsamizuWIPHq0qrAFbXsCg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.2.10</title>
             <pubDate>Fri, 30 Oct 2026 23:18:08 -0400</pubDate>
             <sparkle:version>1.2.10</sparkle:version>
@@ -54,35 +84,6 @@ pick up to ten at a time.
                 <enclosure url="https://github.com/brownien00b/cubby-releases/releases/download/downloads/Cubby1.2.9-1.2.6.delta" sparkle:deltaFrom="1.2.6" length="601662" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="/i+nnS3bvFMb1YuCH+blogws0wRwu3X1sWi/HhG/BLWu2UiA6WQ8+h1kmRVr4R1cd3+XcyBcJ2nBGTE+4o5XCQ=="/>
                 <enclosure url="https://github.com/brownien00b/cubby-releases/releases/download/downloads/Cubby1.2.9-1.2.5.delta" sparkle:deltaFrom="1.2.5" length="751202" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="2qvIud2UR9XsmE5HVs6bz3HDiVQhDsNsRS2N5z8DWhzk6bg46Tu6npPQVj0ryKKmboA2Hh0eFRhMDRCH5AC1DA=="/>
                 <enclosure url="https://github.com/brownien00b/cubby-releases/releases/download/downloads/Cubby1.2.9-1.2.4.delta" sparkle:deltaFrom="1.2.4" length="762254" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="N18hk6pHXtR+JlRXe9DN8QNeYQ9C0CPe9bIV6YKEC8CIZn7ywaMuyRpoGRjpCw5S1hzCGhr/+RZe75pn4euTDA=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.2.8</title>
-            <pubDate>Thu, 22 Oct 2026 10:45:40 -0400</pubDate>
-            <sparkle:version>1.2.8</sparkle:version>
-            <sparkle:shortVersionString>1.2.8</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[### Starred has its own view
-
-Press **⌘S** in the panel to see only your starred items, and **⌘S** again
-to get back. Your recents now always show the newest thing first. Starring no
-longer pushes it down the list.
-
-To star something, press **⇧⌘S**, or right-click it and choose **Star**. This
-works on text, screenshots, recordings and GIFs, and starred pictures get a
-small star badge. In the starred view, items stay in the order you starred
-them, so each one keeps its number.
-
-As before, starred items survive Clear All and the automatic cleanup, and
-⌘⌫ won't delete one until you unstar it.
-]]></description>
-            <enclosure url="https://github.com/brownien00b/cubby-releases/releases/download/downloads/Cubby-1.2.8.dmg" length="11343887" type="application/octet-stream" sparkle:edSignature="VuFH8CYobYhAlX+P52GuxZmXln+WLudMyGLmzYNk7yWEdvPOX1fUSMWe1OoiouWlhFtYkIOFsn7jNFbe1b/iCw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/brownien00b/cubby-releases/releases/download/downloads/Cubby1.2.8-1.2.7.delta" sparkle:deltaFrom="1.2.7" length="394486" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="sP4D4oKglEgQcNS/7FuLWReUqUvNDJteFJjRmPEMT/Zf9GyiBmNnEyV3/0UIBxRmQ3x52r2/3o5xCs6/DFi8Cg=="/>
-                <enclosure url="https://github.com/brownien00b/cubby-releases/releases/download/downloads/Cubby1.2.8-1.2.6.delta" sparkle:deltaFrom="1.2.6" length="444202" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="BLHUKEjrZUxghGtnGh83MiprKd4LpXouWRJpdtVep5xLrNUVuo3+sr0xD9ahOAGBlbBraxOJc4c10hm/zFt4Dg=="/>
-                <enclosure url="https://github.com/brownien00b/cubby-releases/releases/download/downloads/Cubby1.2.8-1.2.5.delta" sparkle:deltaFrom="1.2.5" length="669942" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="UMFXdklJvL4Od4zhMpL28N5sFT44trpw6WJZtqNCWYuvSGv5C3DXeVEVeU75rB81XUj/pK8mA6fJWGDBMmtICw=="/>
-                <enclosure url="https://github.com/brownien00b/cubby-releases/releases/download/downloads/Cubby1.2.8-1.2.4.delta" sparkle:deltaFrom="1.2.4" length="691326" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="yBD0LWkB5VGY2d29XWDhd1n4LVJuzpZeVTpVjbE9a3IcnRZTlZtS26/nCMiX+TktQAyvxqu9F/Nx7P0I71bbAg=="/>
-                <enclosure url="https://github.com/brownien00b/cubby-releases/releases/download/downloads/Cubby1.2.8-1.2.3.delta" sparkle:deltaFrom="1.2.3" length="690846" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="2RV6l74Ypq16lv/620jQxgt7uxRMxafKsa4CIsL6nz/zKBu/vVfOBhUt6BT0lFUFNMOM7BLcsA3RtJC4AOoQBg=="/>
             </sparkle:deltas>
         </item>
     </channel>
