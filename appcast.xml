@@ -3,6 +3,31 @@
     <channel>
         <title>Cubby</title>
         <item>
+            <title>1.2.13</title>
+            <pubDate>Wed, 18 Nov 2026 08:21:43 -0500</pubDate>
+            <sparkle:version>1.2.13</sparkle:version>
+            <sparkle:shortVersionString>1.2.13</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[### Left ⌘⌥ shortcuts no longer start a text capture
+
+Tapping right ⌘ and right ⌥ together captures text off the screen. Left ⌘
+and left ⌥ counted too, so a global shortcut like ⌘⌥X in another app
+started a text capture almost every time: that app takes the X before Cubby
+can see it, and Cubby saw only ⌘⌥ tapped. Now only the right-hand keys count.
+
+Tapping right ⌘ while holding left ⌘ now opens the panel, and the same goes
+for right ⌥. Before, that tap was missed.
+]]></description>
+            <enclosure url="https://github.com/brownien00b/cubby-releases/releases/download/downloads/Cubby-1.2.13.dmg" length="11436786" type="application/octet-stream" sparkle:edSignature="0bJ7HmPwbg60FuPwDVo3OR0VdstFyzuB2n7CAgEh+RLdogrE3P0xz6cXvxhnC5vr7SR2dfFOyCsC2llSlxqcAw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/brownien00b/cubby-releases/releases/download/downloads/Cubby1.2.13-1.2.12.delta" sparkle:deltaFrom="1.2.12" length="259570" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="cPoDKrY4qr+hjovMDTaPY/LPYoNIWc/I/NO+sd+DqC1y6GggOzmbkep06mnz6gzvhSUAQqSdR2g0i4kDFVMHBQ=="/>
+                <enclosure url="https://github.com/brownien00b/cubby-releases/releases/download/downloads/Cubby1.2.13-1.2.11.delta" sparkle:deltaFrom="1.2.11" length="333794" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="bTEL5IMgdZ6BxmdY7R/P953tmxROJrQtmB13kQnd8adbEGu8Fj6ZmIz9GBcu4C0snx53ELzyLfwmpt8imejABQ=="/>
+                <enclosure url="https://github.com/brownien00b/cubby-releases/releases/download/downloads/Cubby1.2.13-1.2.10.delta" sparkle:deltaFrom="1.2.10" length="433558" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="wdb3pGxtlU1ZtvOiEMzCcPSVMzST4qwNplKwxXRltiFeoXCqPlwUOif8a/qVLaujt3/+gxeAhouR4P6LbwnfAA=="/>
+                <enclosure url="https://github.com/brownien00b/cubby-releases/releases/download/downloads/Cubby1.2.13-1.2.9.delta" sparkle:deltaFrom="1.2.9" length="438398" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="lh3pAMsg9Kt3IVR4B54vfjbvyP8csTtkX2H7NAo6e4seoO9JMI/buGMU1HbI5zXgDXdEswrY9vLOfHpR9wqlDQ=="/>
+                <enclosure url="https://github.com/brownien00b/cubby-releases/releases/download/downloads/Cubby1.2.13-1.2.8.delta" sparkle:deltaFrom="1.2.8" length="563294" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ZP9dsT9j9NVIOYKwNzC6/AhjA1qNFaotWDhgDZ9JEqdpimjyDoJ13RvrDvLlhpNKsi3uIVVXIww3izBSZFCdCQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.2.12</title>
             <pubDate>Sat, 14 Nov 2026 13:11:58 -0500</pubDate>
             <sparkle:version>1.2.12</sparkle:version>
@@ -58,30 +83,6 @@ working.
                 <enclosure url="https://github.com/brownien00b/cubby-releases/releases/download/downloads/Cubby1.2.11-1.2.8.delta" sparkle:deltaFrom="1.2.8" length="518074" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="XemCBD4qLuRWBBGZ9xVCQY8NYVp0EWJ8NWmUaL4mwDikONcrYbigpriNAm8QYN69UTnfwKyKcRTVQUUXX2JpCA=="/>
                 <enclosure url="https://github.com/brownien00b/cubby-releases/releases/download/downloads/Cubby1.2.11-1.2.7.delta" sparkle:deltaFrom="1.2.7" length="597830" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="NLdalJRemJujipuhSGPmqSwn1t1U6kVCLwXP6PuQxSvq8Y6a/LBUAFDPn/o+nzfVH8czm46EKG84Aai7bElwBA=="/>
                 <enclosure url="https://github.com/brownien00b/cubby-releases/releases/download/downloads/Cubby1.2.11-1.2.6.delta" sparkle:deltaFrom="1.2.6" length="632062" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="sadf5tzXLb37bBlLQNgD13Dxch0UkEGG+WR+4KluXUNohDiVqAGrT5KssbxTeNvEHsamizuWIPHq0qrAFbXsCg=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.2.10</title>
-            <pubDate>Fri, 30 Oct 2026 23:18:08 -0400</pubDate>
-            <sparkle:version>1.2.10</sparkle:version>
-            <sparkle:shortVersionString>1.2.10</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[### Drag recordings into video editors
-
-Dragging a screen recording from the panel into CapCut didn't work. Now it
-does. Cubby hands over the recording file itself, the same way dragging it out
-of Finder does, so editors that import media by reference accept it.
-
-Screenshots and recent files drag the same way, and dragging no longer leaves
-a copy of the file in your Library folder each time.
-]]></description>
-            <enclosure url="https://github.com/brownien00b/cubby-releases/releases/download/downloads/Cubby-1.2.10.dmg" length="11411233" type="application/octet-stream" sparkle:edSignature="2/TfymcdhkJ3PZ55UJKv3rgycx+uLSjG5e5hSQ2Qgls9vdUbnI/1Xp3IuXCfenmuShJjkOy6imLkY03JI3IxCQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/brownien00b/cubby-releases/releases/download/downloads/Cubby1.2.10-1.2.9.delta" sparkle:deltaFrom="1.2.9" length="166458" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="+h7Xhae27td+NKoSZbhibs3DTX4el6srGJsbRHLYpeZNSqZIu7dtBWLuFENjhq89UMoAxXA/QVk6z5RxySmkAQ=="/>
-                <enclosure url="https://github.com/brownien00b/cubby-releases/releases/download/downloads/Cubby1.2.10-1.2.8.delta" sparkle:deltaFrom="1.2.8" length="475942" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="j5O3LFlJXhaRaREi/24T9/T76puD6vdCqaZOlY8EAc5pq9eo3lRg/loyRZh58BhWcw6IGWiiahbnnhXgKaWaBw=="/>
-                <enclosure url="https://github.com/brownien00b/cubby-releases/releases/download/downloads/Cubby1.2.10-1.2.7.delta" sparkle:deltaFrom="1.2.7" length="562946" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="gv8Btbx4laUM0CYP3zsJXF1y2pDEpUZDBR8YLVkYfjgXj9egdM8YjkYWgkjgyXOWIoyWJfwGPQU/3r2hir0IAQ=="/>
-                <enclosure url="https://github.com/brownien00b/cubby-releases/releases/download/downloads/Cubby1.2.10-1.2.6.delta" sparkle:deltaFrom="1.2.6" length="602434" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="9de1diWf2bhexiLNxmvAROd/UlqZT7nJKgtQYouoK1Y+AtTYWwI2cXTU70qNXtDipijD5kv007cFemsgXKxeCg=="/>
-                <enclosure url="https://github.com/brownien00b/cubby-releases/releases/download/downloads/Cubby1.2.10-1.2.5.delta" sparkle:deltaFrom="1.2.5" length="756946" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="EGlUzLwRD6ByBMOSN+zFgHJoCBeX/E1EqeYr0SAfXocehrszJdPNIzop2e3eHQUh+NGZWDxMhtbiSZw0s3qnCw=="/>
             </sparkle:deltas>
         </item>
     </channel>
